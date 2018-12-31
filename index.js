@@ -1,4 +1,3 @@
-
 import all necessary commands and libraries
 import discord
 import asyncio
